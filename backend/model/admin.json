@@ -1,0 +1,14 @@
+[
+    {
+        "eventName":"name",
+        "organizerID":"66f5850d6dd6dc60dc4b937c",
+        "eventOrganizer":"org",
+        "eventDescription":"Descrip",
+        "eventDate":"2024-10-30T07:30:00.000+00:00",
+        "venue":"lt-0-01",
+        "image":"",
+        "faculty":"faculty of science",
+        "StudyLevel":"undergrAD"
+    }
+
+]

@@ -1,0 +1,136 @@
+[
+    {
+      "name": "lt-0-01",
+      "status": "inactive",
+      "capacity": 100,
+      "start": "2024-08-30T07:30:00.000Z",
+      "endDate": "2024-10-30T09:30:00.000Z"
+    },
+    {
+      "name": "lt-0-01",
+      "status": "inactive",
+      "capacity": 100,
+      "start": "2024-08-30T09:30:00.000Z",
+      "endDate": "2024-10-30T11:30:00.000Z"
+    },
+    {
+      "name": "lt-0-01",
+      "status": "inactive",
+      "capacity": 100,
+      "start": "2024-10-30T11:30:00.000Z",
+      "endDate": "2024-10-30T13:30:00.000Z"
+    },
+    {
+      "name": "lt-0-01",
+      "status": "inactive",
+      "capacity": 100,
+      "start": "2024-10-30T13:30:00.000Z",
+      "endDate": "2024-10-30T15:30:00.000Z"
+    },
+    {
+      "name": "lt-0-02",
+      "status": "active",
+      "capacity": 100,
+      "start": "2024-10-30T07:30:00.000Z",
+      "endDate": "2024-10-30T09:30:00.000Z"
+    },
+    {
+      "name": "lt-0-02",
+      "status": "active",
+      "capacity": 100,
+      "start": "2024-07-30T09:30:00.000Z",
+      "endDate": "2024-10-30T11:30:00.000Z"
+    },
+    {
+      "name": "lt-0-02",
+      "status": "active",
+      "capacity": 100,
+      "start": "2024-10-30T11:30:00.000Z",
+      "endDate": "2024-10-30T13:30:00.000Z"
+    },
+    {
+      "name": "lt-0-02",
+      "status": "active",
+      "capacity": 100,
+      "start": "2024-10-30T13:30:00.000Z",
+      "endDate": "2024-10-30T15:30:00.000Z"
+    },
+    {
+      "name": "lt-0-03",
+      "status": "inactive",
+      "capacity": 100,
+      "start": "2024-10-30T07:30:00.000Z",
+      "endDate": "2024-10-30T09:30:00.000Z"
+    },
+    {
+      "name": "lt-0-03",
+      "status": "inactive",
+      "capacity": 100,
+      "start": "2024-10-30T09:30:00.000Z",
+      "endDate": "2024-10-30T11:30:00.000Z"
+    },
+    {
+      "name": "lt-1-01",
+      "status": "active",
+      "capacity": 100,
+      "start": "2024-10-30T07:30:00.000Z",
+      "endDate": "2024-10-30T09:30:00.000Z"
+    },
+    {
+      "name": "lt-1-01",
+      "status": "active",
+      "capacity": 100,
+      "start": "2024-10-30T09:30:00.000Z",
+      "endDate": "2024-10-30T11:30:00.000Z"
+    },
+    {
+      "name": "lt-1-01",
+      "status": "active",
+      "capacity": 100,
+      "start": "2024-10-30T11:30:00.000Z",
+      "endDate": "2024-10-30T13:30:00.000Z"
+    },
+    {
+      "name": "lt-1-02",
+      "status": "inactive",
+      "capacity": 100,
+      "start": "2024-10-30T07:30:00.000Z",
+      "endDate": "2024-10-30T09:30:00.000Z"
+    },
+    {
+      "name": "lt-1-02",
+      "status": "inactive",
+      "capacity": 100,
+      "start": "2024-10-30T09:30:00.000Z",
+      "endDate": "2024-10-30T11:30:00.000Z"
+    },
+    {
+      "name": "lt-1-03",
+      "status": "active",
+      "capacity": 100,
+      "start": "2024-10-30T07:30:00.000Z",
+      "endDate": "2024-10-30T09:30:00.000Z"
+    },
+    {
+      "name": "lt-1-03",
+      "status": "active",
+      "capacity": 100,
+      "start": "2024-10-30T09:30:00.000Z",
+      "endDate": "2024-10-30T11:30:00.000Z"
+    },
+    {
+      "name": "lt-1-04",
+      "status": "inactive",
+      "capacity": 100,
+      "start": "2024-10-30T07:30:00.000Z",
+      "endDate": "2024-10-30T09:30:00.000Z"
+    },
+    {
+      "name": "lt-1-04",
+      "status": "inactive",
+      "capacity": 100,
+      "start": "2024-10-30T09:30:00.000Z",
+      "endDate": "2024-10-30T11:30:00.000Z"
+    }
+  ]
+  
